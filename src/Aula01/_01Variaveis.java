@@ -1,6 +1,6 @@
 package Aula01;
 
-public class Variaveis01 {
+public class _01Variaveis {
     public static void main(String[] args) {
 
         // convenção java
