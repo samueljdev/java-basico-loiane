@@ -19,7 +19,7 @@ public class _03LendoDadosTeclado {
 
         System.out.print("Digite a sua altura: ");
         double altura = scan.nextDouble();
-
+!
         System.out.println("Sua idade é: " + idade +" E sua altura é: " + altura);*/
 
         System.out.println("Digite o seu primeiro nome, idade, quantidade de filhos, altura e se tem bichinho de estimação:");
