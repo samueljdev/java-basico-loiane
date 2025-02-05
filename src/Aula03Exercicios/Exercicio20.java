@@ -16,7 +16,7 @@ public class Exercicio20 {
         int soma = 0;
 
         for (int i = 0; i < idades; i++) {
-            System.out.println("Entre com a idade da pessoa = " + (i + 1)+ "");
+            System.out.println("Entre com a idade da pessoa = " + (i + 1));
             idade = scan.nextInt();
             soma += idade;
         }

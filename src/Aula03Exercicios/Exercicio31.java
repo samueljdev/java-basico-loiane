@@ -1,7 +1,6 @@
 package Aula03Exercicios;
 
 import java.text.DecimalFormat;
-import java.util.Scanner;
 
 public class Exercicio31 {
     /* Um funcionário de uma empresa recebe aumento salarial anualmente:

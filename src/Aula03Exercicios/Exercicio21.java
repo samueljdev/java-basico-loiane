@@ -14,7 +14,7 @@ public class Exercicio21 {
 
         int numAlunos;
         int soma = 0;
-        boolean invalido = true;
+        boolean invalido;
 
         for (int i = 1; i <= numTurmas; i++) {
 
